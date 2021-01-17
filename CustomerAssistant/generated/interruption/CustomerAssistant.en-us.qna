@@ -1,0 +1,20 @@
+# ? Is qna working
+
+**Filters:**
+- dialogName=CustomerAssistant
+
+```
+Why, of course Q&A is working!
+```
+
+> Source: cross training. Please do not edit these directly!
+> !# @qna.pair.source = crosstrained
+
+# ? Is LUIS working
+
+**Filters:**
+- dialogName=CustomerAssistant
+
+```
+intent=DeferToRecognizer_LUIS_CustomerAssistant
+```

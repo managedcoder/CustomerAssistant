@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "QnA_CustomerAssistant",
+  "recognizers": {
+    "en-us": "CustomerAssistant.en-us.qna",
+    "": "CustomerAssistant.en-us.qna"
+  }
+}

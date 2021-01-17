@@ -1,0 +1,6 @@
+{
+    "qna": {
+        "CustomerAssistant_en_us_qna": "bf0ac31a-398b-4cb0-99bd-a95d05c05ae5",
+        "hostname": "https://customerassistantqna.azurewebsites.net/qnamaker"
+    }
+}

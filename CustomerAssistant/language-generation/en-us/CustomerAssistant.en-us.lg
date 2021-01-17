@@ -1,0 +1,12 @@
+[import](common.lg)
+# TextInput_Prompt_cYB7wN()
+[Activity
+    Text = ${expandText(@answer)}
+    SuggestedActions = ${foreach(turn.recognized.answers[0].context.prompts, x, x.displayText)}
+]
+
+# SendActivity_eHS4er()
+- ${expandText(@answer)}
+
+# SendActivity_D7mjz2()
+- Why, of course LUIS is working!
