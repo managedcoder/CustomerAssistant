@@ -3,6 +3,9 @@
 Complete solution for an enterprise customer assistant that can connect and engage with customers 
 across multiple channels, including live chat and telephony, and supports call center and customer 
 service integration.
+<pre><code><b>NOTE:</b> This project is a work in progress and this overview is aspirational currently and we'll be adding
+a roadmap of features soon to make it easier to understand the current and future capabilitiles of this 
+accelerator.</code></pre>
 ## Solution Elements
 ![Solution Elements](./images/CustomerAssistantSolutionElements.png)
 ##### Figure 1: Solution Elements
