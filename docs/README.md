@@ -1,5 +1,25 @@
 # Conversational Touchpoint Accelerator
 ## Overview
+Enterprise touchpoints are channels that connect people to organizations. These
+touchpoints could be a website, mobile app, social media, personal assistants, 
+or a call center.  Conversation is the most natural and effective means for 
+people to communicate in these touchpoints. This accelerator is a blueprint for
+transforming any enterprise touchpoint into a balanced conversational experience
+with the right blend of Conversational AI and human agent interaction, when that's
+needed.  
+
+Examples of touchpoint transformations are:
+* Front-end a call center with a bot to deflect and reduce traffic to human agents
+* Add an enterprise assistant bot to a webpage that can escalate to an agent when needed
+* Add a conversational UI to the existing UX of a mobile application (i.e., make mobile app conversational!)
+
+Patterns of Transformation:
+* Interject bot between user and agent as in the call center transformation
+* Interject agent into bot as in enterprise assistant bot scenario
+* Interject conversation into mobile apps where no prior conversational experience existed
+<pre><code><b>NOTE:</b> This project is a work in progress and this overview is 
+aspirational currently and we'll be adding a roadmap of features soon to make it 
+easier to understand the current and future capabilities of this accelerator.</code></pre>
 ## Solution Elements
 ![Solution Elements](./images/CustomerAssistantSolutionElements.png)
 ##### Figure 1: Solution Elements
