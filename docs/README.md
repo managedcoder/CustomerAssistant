@@ -1,23 +1,21 @@
-# Customer Assistant Solution
+# Conversational Touchpoint Accelerator
 ## Overview
-Complete solution for an enterprise customer assistant that can connect and engage with customers 
-across multiple channels, including live chat and telephony, and supports call center and customer 
-service integration.
-<pre><code><b>NOTE:</b> This project is a work in progress and this overview is aspirational currently and we'll be adding
-a roadmap of features soon to make it easier to understand the current and future capabilitiles of this 
-accelerator.</code></pre>
 ## Solution Elements
 ![Solution Elements](./images/CustomerAssistantSolutionElements.png)
 ##### Figure 1: Solution Elements
-Figure 1 shows the various solution elements of the Customer Assistant solution which extends the
-standard Bot Framework Virtual Assistant solution in the following ways:
-### Live Chat
-Recipe for Live Chat support via integration with live chat solutions like Dynamics 365 Omnichannel
-for Customer Service and LivePerson Customer Care.
-### Call Center
-Recipe for stand-alone call center support or integration with existing call center solutions.  The
-stand-alone recipe makes supporting less formal call center scenarios like an internal "help desk"
-easy and feasible.
+Figure 1 shows the various solution elements of the touchpoint accelerator which 
+will extend the standard Bot Framework virtual assistant pattern in the following ways:
+### Agent Hub
+Recipe for message-based live chat support through integration with solutions like Dynamics
+365 Omnichannel for Customer Service, LivePerson Customer Care, ServiceNow, Azure
+Communication Services, and Teams.
+
+The agent hub solution element also include a recipe for stand-alone call center support
+or integration with existing call center solutions.
+
+This agent hub element provides support for informal, low cost scenarios like an internal 
+"help desks" and more sophisticated and capable solutions targeting an enterprise call
+center.
 ### Customer Service
 A "plug-in" approach for the integration of 1st and 3rd party customer service solutions.  The
 initial focus will be on supporting Dynamics 365 Customer Service.
